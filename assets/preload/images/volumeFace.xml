@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="volumeFace.png">
+	<!-- Created with Adobe Animate version 23.0.1.70 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="one0000" x="0" y="0" width="114" height="99"/>
+	<SubTexture name="two0000" x="0" y="99" width="114" height="99"/>
+	<SubTexture name="three0000" x="0" y="198" width="114" height="99"/>
+	<SubTexture name="four0000" x="0" y="297" width="114" height="99"/>
+	<SubTexture name="five0000" x="0" y="396" width="114" height="99"/>
+	<SubTexture name="six0000" x="114" y="0" width="114" height="99"/>
+	<SubTexture name="seven0000" x="114" y="99" width="114" height="99"/>
+	<SubTexture name="eight0000" x="114" y="198" width="114" height="99"/>
+	<SubTexture name="nine0000" x="114" y="297" width="114" height="99"/>
+	<SubTexture name="ten0000" x="114" y="396" width="114" height="99"/>
+</TextureAtlas>

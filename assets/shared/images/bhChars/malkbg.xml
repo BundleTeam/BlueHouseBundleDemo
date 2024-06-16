@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="malkbg.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="malkwalking0000" x="0" y="0" width="318" height="434" frameX="0" frameY="0" frameWidth="322" frameHeight="444"/>
+	<SubTexture name="malkwalking0001" x="318" y="0" width="312" height="434" frameX="-7" frameY="0" frameWidth="322" frameHeight="444"/>
+	<SubTexture name="malkwalking0002" x="630" y="0" width="308" height="434" frameX="-12" frameY="0" frameWidth="322" frameHeight="444"/>
+	<SubTexture name="malkwalking0003" x="938" y="0" width="306" height="434" frameX="-15" frameY="0" frameWidth="322" frameHeight="444"/>
+	<SubTexture name="malkwalking0004" x="1244" y="0" width="306" height="434" frameX="-16" frameY="0" frameWidth="322" frameHeight="444"/>
+	<SubTexture name="malkwalking0005" x="1550" y="0" width="305" height="434" frameX="-17" frameY="0" frameWidth="322" frameHeight="444"/>
+	<SubTexture name="malkwalking0006" x="0" y="434" width="302" height="434" frameX="-17" frameY="0" frameWidth="322" frameHeight="444"/>
+	<SubTexture name="malkwalking0007" x="302" y="434" width="298" height="435" frameX="-17" frameY="0" frameWidth="322" frameHeight="444"/>
+	<SubTexture name="malkwalking0008" x="600" y="434" width="292" height="437" frameX="-16" frameY="0" frameWidth="322" frameHeight="444"/>
+	<SubTexture name="malkwalking0009" x="892" y="434" width="292" height="440" frameX="-16" frameY="0" frameWidth="322" frameHeight="444"/>
+	<SubTexture name="malkwalking0010" x="1184" y="434" width="292" height="444" frameX="-16" frameY="0" frameWidth="322" frameHeight="444"/>
+	<SubTexture name="malkwalking0011" x="1476" y="434" width="280" height="431" frameX="-27" frameY="0" frameWidth="322" frameHeight="444"/>
+	<SubTexture name="malkwalking0012" x="1756" y="434" width="286" height="431" frameX="-22" frameY="0" frameWidth="322" frameHeight="444"/>
+	<SubTexture name="malkwalking0013" x="0" y="878" width="289" height="431" frameX="-19" frameY="0" frameWidth="322" frameHeight="444"/>
+	<SubTexture name="malkwalking0014" x="289" y="878" width="293" height="431" frameX="-17" frameY="0" frameWidth="322" frameHeight="444"/>
+	<SubTexture name="malkwalking0015" x="582" y="878" width="296" height="431" frameX="-16" frameY="0" frameWidth="322" frameHeight="444"/>
+	<SubTexture name="malkwalking0016" x="878" y="878" width="296" height="431" frameX="-15" frameY="0" frameWidth="322" frameHeight="444"/>
+	<SubTexture name="malkwalking0017" x="1174" y="878" width="293" height="431" frameX="-15" frameY="0" frameWidth="322" frameHeight="444"/>
+	<SubTexture name="malkwalking0018" x="1467" y="878" width="292" height="430" frameX="-16" frameY="0" frameWidth="322" frameHeight="444"/>
+	<SubTexture name="malkwalking0019" x="0" y="1309" width="292" height="429" frameX="-16" frameY="0" frameWidth="322" frameHeight="444"/>
+	<SubTexture name="malkwalking0020" x="292" y="1309" width="292" height="432" frameX="-16" frameY="0" frameWidth="322" frameHeight="444"/>
+	<SubTexture name="malkwalking0021" x="1184" y="434" width="292" height="444" frameX="-16" frameY="0" frameWidth="322" frameHeight="444"/>
+</TextureAtlas>

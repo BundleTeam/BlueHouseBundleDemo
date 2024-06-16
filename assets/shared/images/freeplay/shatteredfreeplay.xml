@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="shatteredfreeplay.png">
+	<!-- Created with Adobe Animate version 23.0.1.70 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="shattered kitchen0000" x="0" y="0" width="475" height="501"/>
+	<SubTexture name="shattered kitchen0001" x="0" y="0" width="475" height="501"/>
+	<SubTexture name="shattered kitchen0002" x="0" y="0" width="475" height="501"/>
+	<SubTexture name="shattered kitchen0003" x="0" y="0" width="475" height="501"/>
+	<SubTexture name="shattered kitchen0004" x="0" y="501" width="475" height="501"/>
+	<SubTexture name="shattered kitchen0005" x="0" y="501" width="475" height="501"/>
+	<SubTexture name="shattered kitchen0006" x="0" y="501" width="475" height="501"/>
+	<SubTexture name="shattered kitchen0007" x="0" y="501" width="475" height="501"/>
+	<SubTexture name="shattered kitchen0008" x="475" y="0" width="475" height="501"/>
+	<SubTexture name="shattered kitchen0009" x="475" y="0" width="475" height="501"/>
+	<SubTexture name="shattered kitchen0010" x="475" y="0" width="475" height="501"/>
+	<SubTexture name="shattered kitchen0011" x="475" y="0" width="475" height="501"/>
+	<SubTexture name="shattered kitchen0012" x="475" y="0" width="475" height="501"/>
+</TextureAtlas>

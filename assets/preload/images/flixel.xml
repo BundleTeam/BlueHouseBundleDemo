@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="flixel.png">
+	<!-- Created with Adobe Animate version 23.0.1.70 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="flixel0000" x="5231" y="7367" width="1663" height="386" frameX="-327" frameY="-1453" frameWidth="2384" frameHeight="1839"/>
+	<SubTexture name="flixel0001" x="6355" y="956" width="1663" height="386" frameX="-327" frameY="-1453" frameWidth="2384" frameHeight="1839"/>
+	<SubTexture name="flixel0002" x="1686" y="7469" width="1651" height="538" frameX="-339" frameY="-1297" frameWidth="2384" frameHeight="1839"/>
+	<SubTexture name="flixel0003" x="3557" y="7284" width="1651" height="523" frameX="-339" frameY="-1297" frameWidth="2384" frameHeight="1839"/>
+	<SubTexture name="flixel0004" x="23" y="7466" width="1640" height="549" frameX="-357" frameY="-1160" frameWidth="2384" frameHeight="1839"/>
+	<SubTexture name="flixel0005" x="5895" y="2869" width="1640" height="451" frameX="-357" frameY="-1160" frameWidth="2384" frameHeight="1839"/>
+	<SubTexture name="flixel0006" x="5964" y="1860" width="1641" height="506" frameX="-356" frameY="-1086" frameWidth="2384" frameHeight="1839"/>
+	<SubTexture name="flixel0007" x="5964" y="2389" width="1641" height="457" frameX="-356" frameY="-1086" frameWidth="2384" frameHeight="1839"/>
+	<SubTexture name="flixel0008" x="5895" y="3343" width="1654" height="425" frameX="-360" frameY="-1090" frameWidth="2384" frameHeight="1839"/>
+	<SubTexture name="flixel0009" x="5322" y="6920" width="1654" height="424" frameX="-360" frameY="-1091" frameWidth="2384" frameHeight="1839"/>
+	<SubTexture name="flixel0010" x="5613" y="3791" width="1655" height="424" frameX="-360" frameY="-1091" frameWidth="2384" frameHeight="1839"/>
+	<SubTexture name="flixel0011" x="5613" y="4238" width="1655" height="424" frameX="-360" frameY="-1091" frameWidth="2384" frameHeight="1839"/>
+	<SubTexture name="flixel0012" x="5428" y="4685" width="1655" height="424" frameX="-360" frameY="-1091" frameWidth="2384" frameHeight="1839"/>
+	<SubTexture name="flixel0013" x="5428" y="5132" width="1655" height="424" frameX="-360" frameY="-1091" frameWidth="2384" frameHeight="1839"/>
+	<SubTexture name="flixel0014" x="5324" y="5579" width="1655" height="424" frameX="-360" frameY="-1091" frameWidth="2384" frameHeight="1839"/>
+	<SubTexture name="flixel0015" x="5324" y="6026" width="1655" height="424" frameX="-360" frameY="-1091" frameWidth="2384" frameHeight="1839"/>
+	<SubTexture name="flixel0016" x="5322" y="6473" width="1655" height="424" frameX="-360" frameY="-1091" frameWidth="2384" frameHeight="1839"/>
+	<SubTexture name="flixel0017" x="23" y="23" width="2384" height="1515" frameX="0" frameY="0" frameWidth="2384" frameHeight="1839"/>
+	<SubTexture name="flixel0018" x="23" y="1561" width="2315" height="1272" frameX="-69" frameY="-243" frameWidth="2384" frameHeight="1839"/>
+	<SubTexture name="flixel0019" x="2430" y="23" width="2135" height="1095" frameX="-69" frameY="-420" frameWidth="2384" frameHeight="1839"/>
+	<SubTexture name="flixel0020" x="23" y="2856" width="2033" height="960" frameX="-171" frameY="-555" frameWidth="2384" frameHeight="1839"/>
+	<SubTexture name="flixel0021" x="4588" y="23" width="1958" height="910" frameX="-171" frameY="-605" frameWidth="2384" frameHeight="1839"/>
+	<SubTexture name="flixel0022" x="23" y="3839" width="1848" height="887" frameX="-281" frameY="-628" frameWidth="2384" frameHeight="1839"/>
+	<SubTexture name="flixel0023" x="23" y="4749" width="1741" height="886" frameX="-281" frameY="-629" frameWidth="2384" frameHeight="1839"/>
+	<SubTexture name="flixel0024" x="3557" y="6380" width="1742" height="881" frameX="-280" frameY="-634" frameWidth="2384" frameHeight="1839"/>
+	<SubTexture name="flixel0025" x="23" y="5658" width="1744" height="881" frameX="-280" frameY="-634" frameWidth="2384" frameHeight="1839"/>
+	<SubTexture name="flixel0026" x="23" y="6562" width="1744" height="881" frameX="-280" frameY="-634" frameWidth="2384" frameHeight="1839"/>
+	<SubTexture name="flixel0027" x="2430" y="1141" width="1744" height="881" frameX="-280" frameY="-634" frameWidth="2384" frameHeight="1839"/>
+	<SubTexture name="flixel0028" x="2361" y="2045" width="1744" height="881" frameX="-280" frameY="-634" frameWidth="2384" frameHeight="1839"/>
+	<SubTexture name="flixel0029" x="2079" y="2949" width="1744" height="881" frameX="-280" frameY="-634" frameWidth="2384" frameHeight="1839"/>
+	<SubTexture name="flixel0030" x="1894" y="3853" width="1744" height="881" frameX="-280" frameY="-634" frameWidth="2384" frameHeight="1839"/>
+	<SubTexture name="flixel0031" x="4588" y="956" width="1744" height="881" frameX="-280" frameY="-634" frameWidth="2384" frameHeight="1839"/>
+	<SubTexture name="flixel0032" x="1790" y="4757" width="1744" height="881" frameX="-280" frameY="-634" frameWidth="2384" frameHeight="1839"/>
+	<SubTexture name="flixel0033" x="1790" y="5661" width="1744" height="881" frameX="-280" frameY="-634" frameWidth="2384" frameHeight="1839"/>
+	<SubTexture name="flixel0034" x="1790" y="6565" width="1744" height="881" frameX="-280" frameY="-634" frameWidth="2384" frameHeight="1839"/>
+	<SubTexture name="flixel0035" x="4197" y="1860" width="1744" height="881" frameX="-280" frameY="-634" frameWidth="2384" frameHeight="1839"/>
+	<SubTexture name="flixel0036" x="4128" y="2764" width="1744" height="881" frameX="-280" frameY="-634" frameWidth="2384" frameHeight="1839"/>
+	<SubTexture name="flixel0037" x="3846" y="3668" width="1744" height="881" frameX="-280" frameY="-634" frameWidth="2384" frameHeight="1839"/>
+	<SubTexture name="flixel0038" x="3661" y="4572" width="1744" height="881" frameX="-280" frameY="-634" frameWidth="2384" frameHeight="1839"/>
+	<SubTexture name="flixel0039" x="3557" y="5476" width="1744" height="881" frameX="-280" frameY="-634" frameWidth="2384" frameHeight="1839"/>
+</TextureAtlas>

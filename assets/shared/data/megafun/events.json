@@ -1,0 +1,138 @@
+{
+  "song": {
+    "events": [
+      [13714.2857142857, [["Camera Follow Pos", "300", "500"]]],
+      [27428.5714285714, [["Camera Follow Pos", "", ""]]],
+      [
+        32571.4285714286,
+        [
+          ["Camera Follow Pos", "", ""],
+          ["Play Animation", "load", "dad"]
+        ]
+      ],
+      [33000.000013079, [["Play Animation", "loadfin", "dad"]]],
+      [
+        34285.7142857143,
+        [
+          ["Camera Flash", "1.0", "0.1"],
+          ["Add Camera Zoom", "0.02", ""],
+          ["Play Animation", "dodge", "bf"],
+          ["Play Animation", "shoot", "dad"]
+        ]
+      ],
+      [37714.2857142857, [["Camera Follow Pos", "", ""]]],
+      [51428.5714285715, [["Camera Follow Pos", "300", "500"]]],
+      [
+        65142.8571428572,
+        [
+          ["Camera Follow Pos", "", ""],
+          ["Add Camera Zoom", "0.03", ""],
+          ["Play Animation", "load", "dad"]
+        ]
+      ],
+      [65571.4285845076, [["Play Animation", "loadfin", "dad"]]],
+      [
+        66857.1428571429,
+        [
+          ["Camera Flash", "1.0", "0.1"],
+          ["Add Camera Zoom", "0.02", ""],
+          ["Play Animation", "dodge", "bf"],
+          ["Play Animation", "shoot", "dad"]
+        ]
+      ],
+      [
+        68571.4285714286,
+        [
+          ["Play Animation", "dodge", "bf"],
+          ["Camera Flash", "1.0", "0.1"],
+          ["Add Camera Zoom", "0.02", ""],
+          ["Play Animation", "shoot", "dad"]
+        ]
+      ],
+      [
+        70285.7142857143,
+        [
+          ["Play Animation", "dodge", "bf"],
+          ["Add Camera Zoom", "0.02", ""],
+          ["Camera Flash", "1.0", "0.01"],
+          ["Play Animation", "shoot", "dad"]
+        ]
+      ],
+      [
+        72000,
+        [
+          ["Camera Flash", "1.0", "0.1"],
+          ["Add Camera Zoom", "0.02", ""],
+          ["Play Animation", "dodge", "bf"],
+          ["Play Animation", "shoot", "dad"]
+        ]
+      ],
+      [
+        73285.7142857143,
+        [
+          ["Camera Flash", "1.0", "0.1"],
+          ["Add Camera Zoom", "0.02", ""],
+          ["Play Animation", "dodge", "bf"],
+          ["Play Animation", "shoot", "dad"]
+        ]
+      ],
+      [
+        73714.2857142858,
+        [
+          ["Camera Flash", "1.0", "0.1"],
+          ["Add Camera Zoom", "0.02", ""],
+          ["Play Animation", "dodge", "bf"],
+          ["Play Animation", "shoot", "dad"]
+        ]
+      ],
+      [
+        75428.5714285715,
+        [
+          ["Camera Flash", "1.0", "0.1"],
+          ["Add Camera Zoom", "0.02", ""],
+          ["Play Animation", "dodge", "bf"],
+          ["Play Animation", "shoot", "dad"]
+        ]
+      ],
+      [
+        77142.8571428572,
+        [
+          ["Camera Flash", "1.0", "0.1"],
+          ["Add Camera Zoom", "0.02", ""],
+          ["Play Animation", "dodge", "bf"],
+          ["Play Animation", "shoot", "dad"]
+        ]
+      ],
+      [
+        78857.1428571429,
+        [
+          ["Camera Flash", "1.0", "0.1"],
+          ["Add Camera Zoom", "0.02", ""],
+          ["Play Animation", "dodge", "bf"],
+          ["Play Animation", "shoot", "dad"]
+        ]
+      ],
+      [
+        80142.8571428572,
+        [
+          ["Camera Flash", "1.0", "0.1"],
+          ["Add Camera Zoom", "0.02", ""],
+          ["Play Animation", "dodge", "bf"],
+          ["Play Animation", "shoot", "dad"]
+        ]
+      ],
+      [80571.4285714286, [["Camera Follow Pos", "300", "500"]]],
+      [87428.5714285714, [["Camera Follow Pos", "", ""]]],
+      [94285.7142857143, [["Camera Follow Pos", "300", "500"]]],
+      [108000, [["Camera Follow Pos", "", ""]]],
+      [
+        109714.285714286,
+        [
+          ["Play Animation", "shot", "bf"],
+          ["Add Camera Zoom", "0.1", "0.1"],
+          ["Play Animation", "shoot", "dad"]
+        ]
+      ]
+    ]
+  }
+}

@@ -1,0 +1,185 @@
+{
+    "animations": [
+        {
+            "loop": false,
+            "offsets": [
+                55, -61
+            ],
+            "anim": "idle",
+            "fps": 24,
+            "name": "d-idle",
+            "indices": []
+        },
+        {
+            "loop": false,
+            "offsets": [
+                148, -48
+            ],
+            "anim": "singLEFT",
+            "fps": 24,
+            "name": "d-left",
+            "indices": []
+        },
+        {
+            "loop": false,
+            "offsets": [
+                38, -110
+            ],
+            "anim": "singDOWN",
+            "fps": 24,
+            "name": "d-down",
+            "indices": []
+        },
+        {
+            "loop": false,
+            "offsets": [
+                225, 43
+            ],
+            "anim": "singUP",
+            "fps": 24,
+            "name": "d-up",
+            "indices": []
+        }, {
+            "loop": false,
+            "offsets": [
+                41, -63
+            ],
+            "anim": "singRIGHT",
+            "fps": 24,
+            "name": "d-right",
+            "indices": []
+        }, {
+            "loop": false,
+            "offsets": [
+                70, -34
+            ],
+            "anim": "singLEFTmiss",
+            "fps": 24,
+            "name": "m-lmiss",
+            "indices": []
+        }, {
+            "loop": false,
+            "offsets": [
+                47, -87
+            ],
+            "anim": "singDOWNmiss",
+            "fps": 24,
+            "name": "m-dmiss",
+            "indices": []
+        }, {
+            "loop": false,
+            "offsets": [
+                92, 9
+            ],
+            "anim": "singUPmiss",
+            "fps": 24,
+            "name": "m-umiss",
+            "indices": []
+        }, {
+            "loop": false,
+            "offsets": [
+                98, -17
+            ],
+            "anim": "singRIGHTmiss",
+            "fps": 24,
+            "name": "m-rmiss",
+            "indices": []
+        }, {
+            "loop": false,
+            "offsets": [
+                3, 3
+            ],
+            "anim": "hey",
+            "fps": 24,
+            "name": "BF HEY",
+            "indices": []
+        }, {
+            "loop": false,
+            "offsets": [
+                48, 35
+            ],
+            "anim": "hurt",
+            "fps": 24,
+            "name": "BF hit",
+            "indices": []
+        }, {
+            "loop": true,
+            "offsets": [
+                -7, -6
+            ],
+            "anim": "scared",
+            "fps": 24,
+            "name": "BF idle shaking",
+            "indices": []
+        }, {
+            "loop": false,
+            "offsets": [
+                387, 1
+            ],
+            "anim": "firstDeath",
+            "fps": 24,
+            "name": "BF dies",
+            "indices": []
+        }, {
+            "loop": true,
+            "offsets": [
+                16, 18
+            ],
+            "anim": "deathLoop",
+            "fps": 24,
+            "name": "BF Dead Loop",
+            "indices": []
+        }, {
+            "loop": false,
+            "offsets": [
+                11, -1
+            ],
+            "anim": "deathConfirm",
+            "fps": 24,
+            "name": "BF Dead confirm",
+            "indices": []
+        }, {
+            "loop": false,
+            "offsets": [
+                -1, -1
+            ],
+            "anim": "dodge",
+            "fps": 24,
+            "name": "boyfriend dodge",
+            "indices": []
+        }, {
+            "loop": false,
+            "offsets": [
+                294, 267
+            ],
+            "anim": "attack",
+            "fps": 24,
+            "name": "boyfriend attack",
+            "indices": []
+        }, {
+            "loop": false,
+            "offsets": [
+                -41, -22
+            ],
+            "anim": "pre-attack",
+            "fps": 24,
+            "name": "bf pre attack",
+            "indices": []
+        }
+    ],
+    "no_antialiasing": false,
+    "image": "characters/delta",
+    "position": [
+        -60, -210
+    ],
+    "healthicon": "delta",
+    "flip_x": true,
+    "healthbar_colors": [
+        204, 51, 51
+    ],
+    "camera_position": [
+        -150, 150
+    ],
+    "sing_duration": 4,
+    "scale": 0.8
+}

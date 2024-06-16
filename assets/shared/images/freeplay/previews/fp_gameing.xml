@@ -1,0 +1,10 @@
+<TextureAtlas imagePath="fp_gameing.png">
+	<SubTexture name="epicSeziure0000" x="0" y="611" width="374" height="103" frameX="-0" frameY="-272" frameWidth="375" frameHeight="375"/>
+	<SubTexture name="epicSeziure0001" x="376" y="0" width="373" height="174" frameX="-2" frameY="-201" frameWidth="375" frameHeight="375"/>
+	<SubTexture name="epicSeziure0002" x="0" y="445" width="375" height="165" frameX="-0" frameY="-208" frameWidth="375" frameHeight="375"/>
+	<SubTexture name="epicSeziure0003" x="376" y="175" width="200" height="374" frameX="-87" frameY="-0" frameWidth="375" frameHeight="375"/>
+	<SubTexture name="seziure0000" x="0" y="0" width="375" height="103" frameX="-0" frameY="-272" frameWidth="375" frameHeight="375"/>
+	<SubTexture name="seziure0001" x="0" y="104" width="375" height="174" frameX="-0" frameY="-201" frameWidth="375" frameHeight="375"/>
+	<SubTexture name="seziure0002" x="0" y="279" width="375" height="165" frameX="-0" frameY="-208" frameWidth="375" frameHeight="375"/>
+	<SubTexture name="seziure0003" x="577" y="175" width="200" height="375" frameX="-87" frameY="-0" frameWidth="375" frameHeight="375"/>
+</TextureAtlas>

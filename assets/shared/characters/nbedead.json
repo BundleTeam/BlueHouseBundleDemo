@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				228,
+				202
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "ouch",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-38,
+				76
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "loop",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-38,
+				76
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "confirm",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/nbedead",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

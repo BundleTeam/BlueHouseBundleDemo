@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="megafun.png">
+    <!-- Created with Adobe Animate version 20.0.3.25487 -->
+    <!-- http://www.adobe.com/products/animate.html -->
+    <SubTexture name="megafun0000" x="0" y="0" width="363" height="468" />
+    <SubTexture name="megaplop0000" x="363" y="0" width="542" height="300" frameX="0" frameY="-12" frameWidth="542" frameHeight="314" />
+    <SubTexture name="megaplop0001" x="363" y="0" width="542" height="300" frameX="0" frameY="-12" frameWidth="542" frameHeight="314" />
+    <SubTexture name="megaplop0002" x="0" y="468" width="522" height="314" frameX="-10" frameY="0" frameWidth="542" frameHeight="314" />
+    <SubTexture name="megaplop0003" x="0" y="468" width="522" height="314" frameX="-10" frameY="0" frameWidth="542" frameHeight="314" />
+    <SubTexture name="megaplop0004" x="0" y="468" width="522" height="314" frameX="-10" frameY="0" frameWidth="542" frameHeight="314" />
+    <SubTexture name="megaplop0005" x="0" y="468" width="522" height="314" frameX="-10" frameY="0" frameWidth="542" frameHeight="314" />
+    <SubTexture name="megaplop0006" x="0" y="468" width="522" height="314" frameX="-10" frameY="0" frameWidth="542" frameHeight="314" />
+    <SubTexture name="megaplop0007" x="0" y="468" width="522" height="314" frameX="-10" frameY="0" frameWidth="542" frameHeight="314" />
+    <SubTexture name="megaplop0008" x="0" y="468" width="522" height="314" frameX="-10" frameY="0" frameWidth="542" frameHeight="314" />
+    <SubTexture name="megaplop0009" x="0" y="468" width="522" height="314" frameX="-10" frameY="0" frameWidth="542" frameHeight="314" />
+</TextureAtlas>

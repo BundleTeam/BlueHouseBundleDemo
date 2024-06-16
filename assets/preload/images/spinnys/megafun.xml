@@ -1,0 +1,17 @@
+<TextureAtlas imagePath="megafun.png">
+	<SubTexture name="megafun_spin0000" x="415" y="1165" width="391" height="457" frameX="-110" frameY="-94" frameWidth="673" frameHeight="666"/>
+	<SubTexture name="megafun_spin0001" x="0" y="409" width="503" height="347" frameX="-131" frameY="-181" frameWidth="673" frameHeight="666"/>
+	<SubTexture name="megafun_spin0002" x="1566" y="1044" width="352" height="500" frameX="-177" frameY="-132" frameWidth="673" frameHeight="666"/>
+	<SubTexture name="megafun_spin0003" x="0" y="758" width="454" height="405" frameX="-102" frameY="-198" frameWidth="673" frameHeight="666"/>
+	<SubTexture name="megafun_spin0004" x="0" y="0" width="524" height="407" frameX="-51" frameY="-149" frameWidth="673" frameHeight="666"/>
+	<SubTexture name="megafun_spin0005" x="0" y="1165" width="413" height="451" frameX="-94" frameY="-106" frameWidth="673" frameHeight="666"/>
+	<SubTexture name="megafun_spin0006" x="1634" y="0" width="350" height="502" frameX="-178" frameY="-68" frameWidth="673" frameHeight="666"/>
+	<SubTexture name="megafun_spin0007" x="1196" y="523" width="369" height="519" frameX="-173" frameY="-60" frameWidth="673" frameHeight="666"/>
+	<SubTexture name="megafun_spin0008" x="808" y="1329" width="382" height="524" frameX="-164" frameY="-56" frameWidth="673" frameHeight="666"/>
+	<SubTexture name="megafun_spin0009" x="898" y="0" width="376" height="521" frameX="-168" frameY="-58" frameWidth="673" frameHeight="666"/>
+	<SubTexture name="megafun_spin0010" x="1276" y="0" width="356" height="513" frameX="-182" frameY="-64" frameWidth="673" frameHeight="666"/>
+	<SubTexture name="megafun_spin0011" x="1567" y="515" width="350" height="502" frameX="-178" frameY="-68" frameWidth="673" frameHeight="666"/>
+	<SubTexture name="megafun_spin0012" x="1192" y="1329" width="372" height="480" frameX="-143" frameY="-77" frameWidth="673" frameHeight="666"/>
+	<SubTexture name="megafun_spin0013" x="808" y="868" width="386" height="459" frameX="-119" frameY="-88" frameWidth="673" frameHeight="666"/>
+	<SubTexture name="megafun_spin0014" x="505" y="409" width="391" height="457" frameX="-110" frameY="-94" frameWidth="673" frameHeight="666"/>
+</TextureAtlas>

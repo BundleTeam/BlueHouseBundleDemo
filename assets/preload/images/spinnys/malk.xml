@@ -1,0 +1,17 @@
+<TextureAtlas imagePath="malk.png">
+	<SubTexture name="malk_spin0000" x="2133" y="1948" width="462" height="628" frameX="-223" frameY="-67" frameWidth="957" frameHeight="978"/>
+	<SubTexture name="malk_spin0001" x="0" y="640" width="652" height="498" frameX="-251" frameY="-302" frameWidth="957" frameHeight="978"/>
+	<SubTexture name="malk_spin0002" x="1665" y="1301" width="491" height="645" frameX="-180" frameY="-279" frameWidth="957" frameHeight="978"/>
+	<SubTexture name="malk_spin0003" x="0" y="1140" width="641" height="466" frameX="-32" frameY="-298" frameWidth="957" frameHeight="978"/>
+	<SubTexture name="malk_spin0004" x="0" y="0" width="653" height="638" frameX="-42" frameY="-64" frameWidth="957" frameHeight="978"/>
+	<SubTexture name="malk_spin0005" x="1700" y="651" width="471" height="648" frameX="-193" frameY="-53" frameWidth="957" frameHeight="978"/>
+	<SubTexture name="malk_spin0006" x="1204" y="0" width="495" height="649" frameX="-274" frameY="-67" frameWidth="957" frameHeight="978"/>
+	<SubTexture name="malk_spin0007" x="654" y="640" width="548" height="671" frameX="-293" frameY="-54" frameWidth="957" frameHeight="978"/>
+	<SubTexture name="malk_spin0008" x="0" y="1608" width="577" height="672" frameX="-284" frameY="-54" frameWidth="957" frameHeight="978"/>
+	<SubTexture name="malk_spin0009" x="579" y="1608" width="563" height="672" frameX="-288" frameY="-53" frameWidth="957" frameHeight="978"/>
+	<SubTexture name="malk_spin0010" x="1144" y="1313" width="519" height="667" frameX="-300" frameY="-56" frameWidth="957" frameHeight="978"/>
+	<SubTexture name="malk_spin0011" x="1204" y="651" width="494" height="648" frameX="-275" frameY="-67" frameWidth="957" frameHeight="978"/>
+	<SubTexture name="malk_spin0012" x="655" y="0" width="473" height="616" frameX="-249" frameY="-87" frameWidth="957" frameHeight="978"/>
+	<SubTexture name="malk_spin0013" x="1665" y="1948" width="466" height="618" frameX="-230" frameY="-74" frameWidth="957" frameHeight="978"/>
+	<SubTexture name="malk_spin0014" x="1701" y="0" width="462" height="628" frameX="-223" frameY="-67" frameWidth="957" frameHeight="978"/>
+</TextureAtlas>

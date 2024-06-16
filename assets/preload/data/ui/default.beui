@@ -1,0 +1,95 @@
+{
+  "elements": [
+    {
+      "x": 444,
+      "type": "timeBar",
+      "attributes": {
+        "rotation": 0,
+        "scale": [
+          1,
+          1
+        ],
+        "opacity": 1
+      },
+      "y": 684
+    },
+    {
+      "x": 343.5,
+      "type": "healthBar",
+      "attributes": {
+        "rotation": 0,
+        "scale": [
+          1,
+          1
+        ],
+        "opacity": 1
+      },
+      "y": 644.8
+    },
+    {
+      "type": "rating",
+      "x": 525,
+      "y": 300,
+      "attributes": {
+        "scale": [
+          1,
+          1
+        ],
+        "rotation": 0,
+        "opacity": 1
+      }
+    },
+    {
+      "type": "comboNums",
+      "x": 645,
+      "y": 420,
+      "attributes": {
+        "opacity": 1
+      }
+    },
+    {
+      "attributes": {
+        "opacity": 1,
+        "rotation": 0,
+        "scale": [
+          1,
+          1
+        ]
+      },
+      "x": 471,
+      "y": 85,
+      "type": "coolText"
+    }
+  ],
+  "downScroll": false,
+  "scoreTextZoom": true,
+  "useClassicHealthbar": false,
+  "timeBarType": "Time Left",
+  "opponentStrums": true,
+  "useClassicArrows": false,
+  "noteHSV": [
+    [
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0
+    ]
+  ],
+  "classicStrumline": false,
+  "middleScroll": false,
+  "hideHealthIcons": false
+}

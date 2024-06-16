@@ -1,0 +1,109 @@
+{
+  "animations": [
+    {
+      "offsets": [143, 157],
+      "loop": false,
+      "fps": 24,
+      "anim": "singLEFT",
+      "indices": [],
+      "name": "left0"
+    },
+    {
+      "offsets": [70, 77],
+      "loop": false,
+      "fps": 24,
+      "anim": "singDOWN",
+      "indices": [],
+      "name": "down0"
+    },
+    {
+      "offsets": [52, 226],
+      "loop": false,
+      "fps": 24,
+      "anim": "singUP",
+      "indices": [],
+      "name": "up0"
+    },
+    {
+      "offsets": [41, 150],
+      "loop": false,
+      "fps": 24,
+      "anim": "singRIGHT",
+      "indices": [],
+      "name": "right0"
+    },
+    {
+      "offsets": [11, 149],
+      "loop": true,
+      "fps": 24,
+      "anim": "idle",
+      "indices": [],
+      "name": "idle"
+    },
+    {
+      "loop": false,
+      "offsets": [140, 189],
+      "loop": false,
+      "fps": 24,
+      "anim": "singLEFTmiss",
+      "indices": [],
+      "name": "left miss"
+    },
+    {
+      "offsets": [30, 150],
+      "loop": false,
+      "fps": 24,
+      "anim": "singRIGHTmiss",
+      "indices": [],
+      "name": "right miss"
+    },
+    {
+      "offsets": [70, 90],
+      "loop": false,
+      "fps": 24,
+      "anim": "singDOWNmiss",
+      "indices": [],
+      "name": "DOWN MISS"
+    },
+    {
+      "offsets": [42, 235],
+      "loop": false,
+      "fps": 24,
+      "name": "up miss",
+      "indices": []
+    },
+    {
+      "loop": false,
+      "offsets": [19, 143],
+      "anim": "shoot",
+      "fps": 24,
+      "name": "shoot",
+      "indices": []
+    },
+    {
+      "loop": false,
+      "offsets": [-7, 150],
+      "anim": "load",
+      "fps": 24,
+      "name": "load",
+      "indices": []
+    },
+    {
+      "loop": false,
+      "offsets": [37, 163],
+      "anim": "loadfin",
+      "fps": 24,
+      "name": "whipitout",
+      "indices": []
+    }
+  ],
+  "no_antialiasing": false,
+  "image": "characters/megafunnest",
+  "position": [180, 380],
+  "healthicon": "megan",
+  "flip_x": false,
+  "healthbar_colors": [247, 156, 89],
+  "camera_position": [0, 0],
+  "sing_duration": 5.69999980926514,
+  "scale": 0.800000011920929
+}

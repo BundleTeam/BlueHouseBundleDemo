@@ -1,0 +1,7 @@
+Run these inside your terminal:
+
+haxelib install hmm
+haxelib run hmm install
+
+Any haxelibs that you want to add, let me know and ill add it to the hmm.json
+-letsgoaway

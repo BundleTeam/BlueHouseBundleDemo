@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="megafunfreeplay.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="megafunhi0000" x="0" y="0" width="603" height="471"/>
+	<SubTexture name="megafunhi0001" x="0" y="471" width="603" height="471"/>
+	<SubTexture name="megafunhi0002" x="0" y="942" width="603" height="471"/>
+	<SubTexture name="megafunhi0003" x="0" y="1413" width="603" height="471"/>
+</TextureAtlas>

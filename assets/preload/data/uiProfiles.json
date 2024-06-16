@@ -1,0 +1,20 @@
+{
+  "profiles": [
+    {
+      "title": "Default",
+      "id": "default"
+    },
+    {
+      "title": "Default Downscroll",
+      "id": "default-downscroll"
+    },
+    {
+      "title": "Mania Style",
+      "id": "mania"
+    },
+    {
+      "title": "Mania Style Alt",
+      "id": "clean"
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "animations": [
+    {
+      "offsets": [-5, 0],
+      "loop": false,
+      "fps": 24,
+      "anim": "idle",
+      "indices": [],
+      "name": "idle"
+    },
+    {
+      "offsets": [56, -1],
+      "loop": false,
+      "fps": 24,
+      "anim": "singLEFT",
+      "indices": [],
+      "name": "right0"
+    },
+    {
+      "offsets": [12, -38],
+      "loop": false,
+      "fps": 24,
+      "anim": "singDOWN",
+      "indices": [],
+      "name": "down0"
+    },
+    {
+      "offsets": [-13, 59],
+      "loop": false,
+      "fps": 24,
+      "anim": "singUP",
+      "indices": [],
+      "name": "up0"
+    },
+    {
+      "offsets": [-14, -12],
+      "loop": false,
+      "fps": 24,
+      "anim": "singRIGHT",
+      "indices": [],
+      "name": "left0"
+    },
+    {
+      "offsets": [67, 126],
+      "loop": false,
+      "fps": 24,
+      "anim": "singLEFTmiss",
+      "indices": [],
+      "name": "right miss"
+    },
+    {
+      "offsets": [13, 81],
+      "loop": false,
+      "fps": 24,
+      "anim": "singDOWNmiss",
+      "indices": [],
+      "name": "down miss"
+    },
+    {
+      "offsets": [-29, 199],
+      "loop": false,
+      "fps": 24,
+      "anim": "singUPmiss",
+      "indices": [],
+      "name": "up miss"
+    },
+    {
+      "offsets": [-18, 125],
+      "loop": false,
+      "fps": 24,
+      "anim": "singRIGHTmiss",
+      "indices": [],
+      "name": "left miss"
+    },
+    {
+      "offsets": [2, 25],
+      "loop": false,
+      "fps": 30,
+      "anim": "hey",
+      "indices": [],
+      "name": "taunt"
+    },
+    {
+      "offsets": [14, 18],
+      "loop": false,
+      "fps": 24,
+      "anim": "hurt",
+      "indices": [],
+      "name": "BF hit"
+    },
+    {
+      "offsets": [-4, -5],
+      "loop": true,
+      "fps": 24,
+      "anim": "scared",
+      "indices": [],
+      "name": "BF idle shaking"
+    },
+    {
+      "offsets": [-12, 52],
+      "loop": false,
+      "fps": 24,
+      "anim": "dodge",
+      "indices": [],
+      "name": "dodge"
+    },
+    {
+      "offsets": [294, 267],
+      "loop": false,
+      "fps": 24,
+      "anim": "attack",
+      "indices": [],
+      "name": "boyfriend attack"
+    },
+    {
+      "offsets": [-40, -40],
+      "loop": false,
+      "fps": 24,
+      "anim": "pre-attack",
+      "indices": [],
+      "name": "bf pre attack"
+    }
+  ],
+  "no_antialiasing": false,
+  "image": "characters/mista",
+  "position": [180, 190],
+  "healthicon": "mista",
+  "flip_x": false,
+  "healthbar_colors": [102, 19, 116],
+  "camera_position": [0, 0],
+  "sing_duration": 4,
+  "scale": 0.8,
+  "tauntSound": "mistaBoing"
+}

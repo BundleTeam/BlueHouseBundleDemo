@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				201,
+				108
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "deathstart",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				181,
+				-176
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "death loop",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				182,
+				-175
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "death end",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BOYFRIEND_DEAD",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

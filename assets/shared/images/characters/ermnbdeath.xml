@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="nbermdeath.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="confirm0000" x="7483" y="0" width="562" height="538"/>
+	<SubTexture name="confirm0001" x="7483" y="538" width="562" height="538"/>
+	<SubTexture name="confirm0002" x="4710" y="2406" width="562" height="538"/>
+	<SubTexture name="confirm0003" x="5272" y="2406" width="562" height="538"/>
+	<SubTexture name="confirm0004" x="5834" y="2640" width="562" height="538"/>
+	<SubTexture name="confirm0005" x="6396" y="2640" width="562" height="538"/>
+	<SubTexture name="confirm0006" x="6958" y="2640" width="562" height="538"/>
+	<SubTexture name="confirm0007" x="7520" y="2640" width="562" height="538"/>
+	<SubTexture name="confirm0008" x="0" y="2850" width="562" height="538"/>
+	<SubTexture name="confirm0009" x="562" y="2850" width="562" height="538"/>
+	<SubTexture name="confirm0010" x="1124" y="2850" width="562" height="538"/>
+	<SubTexture name="confirm0011" x="1686" y="2850" width="562" height="538"/>
+	<SubTexture name="confirm0012" x="2248" y="2850" width="562" height="538"/>
+	<SubTexture name="confirm0013" x="2810" y="2850" width="562" height="538"/>
+	<SubTexture name="confirm0014" x="3372" y="2850" width="562" height="538"/>
+	<SubTexture name="loop0000" x="6414" y="1308" width="785" height="444"/>
+	<SubTexture name="loop0001" x="7199" y="1308" width="785" height="444"/>
+	<SubTexture name="loop0002" x="6414" y="1752" width="785" height="444"/>
+	<SubTexture name="loop0003" x="7199" y="1752" width="785" height="444"/>
+	<SubTexture name="loop0004" x="0" y="1962" width="785" height="444"/>
+	<SubTexture name="loop0005" x="785" y="1962" width="785" height="444"/>
+	<SubTexture name="loop0006" x="1570" y="1962" width="785" height="444"/>
+	<SubTexture name="loop0007" x="2355" y="1962" width="785" height="444"/>
+	<SubTexture name="loop0008" x="3140" y="1962" width="785" height="444"/>
+	<SubTexture name="loop0009" x="3925" y="1962" width="785" height="444"/>
+	<SubTexture name="loop0010" x="4710" y="1962" width="785" height="444"/>
+	<SubTexture name="loop0011" x="5495" y="1962" width="785" height="444"/>
+	<SubTexture name="loop0012" x="6280" y="2196" width="785" height="444"/>
+	<SubTexture name="loop0013" x="7065" y="2196" width="785" height="444"/>
+	<SubTexture name="loop0014" x="0" y="2406" width="785" height="444"/>
+	<SubTexture name="loop0015" x="785" y="2406" width="785" height="444"/>
+	<SubTexture name="loop0016" x="1570" y="2406" width="785" height="444"/>
+	<SubTexture name="loop0017" x="2355" y="2406" width="785" height="444"/>
+	<SubTexture name="loop0018" x="3140" y="2406" width="785" height="444"/>
+	<SubTexture name="loop0019" x="3925" y="2406" width="785" height="444"/>
+	<SubTexture name="ouchie0000" x="0" y="0" width="1069" height="654"/>
+	<SubTexture name="ouchie0001" x="1069" y="0" width="1069" height="654"/>
+	<SubTexture name="ouchie0002" x="2138" y="0" width="1069" height="654"/>
+	<SubTexture name="ouchie0003" x="3207" y="0" width="1069" height="654"/>
+	<SubTexture name="ouchie0004" x="4276" y="0" width="1069" height="654"/>
+	<SubTexture name="ouchie0005" x="5345" y="0" width="1069" height="654"/>
+	<SubTexture name="ouchie0006" x="6414" y="0" width="1069" height="654"/>
+	<SubTexture name="ouchie0007" x="0" y="654" width="1069" height="654"/>
+	<SubTexture name="ouchie0008" x="1069" y="654" width="1069" height="654"/>
+	<SubTexture name="ouchie0009" x="2138" y="654" width="1069" height="654"/>
+	<SubTexture name="ouchie0010" x="3207" y="654" width="1069" height="654"/>
+	<SubTexture name="ouchie0011" x="4276" y="654" width="1069" height="654"/>
+	<SubTexture name="ouchie0012" x="5345" y="654" width="1069" height="654"/>
+	<SubTexture name="ouchie0013" x="6414" y="654" width="1069" height="654"/>
+	<SubTexture name="ouchie0014" x="0" y="1308" width="1069" height="654"/>
+	<SubTexture name="ouchie0015" x="1069" y="1308" width="1069" height="654"/>
+	<SubTexture name="ouchie0016" x="2138" y="1308" width="1069" height="654"/>
+	<SubTexture name="ouchie0017" x="3207" y="1308" width="1069" height="654"/>
+	<SubTexture name="ouchie0018" x="4276" y="1308" width="1069" height="654"/>
+	<SubTexture name="ouchie0019" x="5345" y="1308" width="1069" height="654"/>
+</TextureAtlas>

@@ -1,0 +1,8 @@
+<TextureAtlas imagePath="appsCyan.png">
+	<SubTexture name="bhb0000" x="0" y="131" width="135" height="84"/>
+	<SubTexture name="clip0000" x="242" y="149" width="66" height="93"/>
+	<SubTexture name="fl0000" x="179" y="0" width="104" height="146"/>
+	<SubTexture name="mista0000" x="0" y="0" width="176" height="128"/>
+	<SubTexture name="vlc0000" x="130" y="218" width="109" height="117"/>
+	<SubTexture name="yt0000" x="0" y="218" width="127" height="120"/>
+</TextureAtlas>

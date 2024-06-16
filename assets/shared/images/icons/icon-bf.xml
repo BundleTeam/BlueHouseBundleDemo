@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="icon-bf.png">
+	<!-- Created with Adobe Animate version 23.0.1.70 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="loosing0000" x="0" y="0" width="132" height="141"/>
+	<SubTexture name="loosing0001" x="0" y="0" width="132" height="141"/>
+	<SubTexture name="loosing0002" x="0" y="141" width="132" height="141"/>
+	<SubTexture name="loosing0003" x="0" y="282" width="132" height="141"/>
+	<SubTexture name="loosing0004" x="0" y="282" width="132" height="141"/>
+	<SubTexture name="loosing0005" x="132" y="0" width="132" height="141"/>
+	<SubTexture name="loosing0006" x="132" y="0" width="132" height="141"/>
+	<SubTexture name="loosing0007" x="264" y="0" width="132" height="141"/>
+	<SubTexture name="loosing0008" x="264" y="0" width="132" height="141"/>
+	<SubTexture name="normal0000" x="132" y="141" width="148" height="117"/>
+	<SubTexture name="normal0001" x="132" y="141" width="148" height="117"/>
+	<SubTexture name="winning0000" x="132" y="141" width="148" height="117"/>
+	<SubTexture name="winning0001" x="132" y="141" width="148" height="117"/>
+	<SubTexture name="winning0002" x="280" y="141" width="148" height="117"/>
+	<SubTexture name="winning0003" x="280" y="141" width="148" height="117"/>
+	<SubTexture name="winning0004" x="132" y="258" width="148" height="117"/>
+	<SubTexture name="winning0005" x="132" y="258" width="148" height="117"/>
+	<SubTexture name="winning0006" x="132" y="375" width="148" height="117"/>
+	<SubTexture name="winning0007" x="132" y="375" width="148" height="117"/>
+	<SubTexture name="winning0008" x="280" y="258" width="148" height="117"/>
+	<SubTexture name="winning0009" x="280" y="258" width="148" height="117"/>
+</TextureAtlas>

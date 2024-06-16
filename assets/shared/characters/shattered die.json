@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-690,
+				452
+			],
+			"loop": false,
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "death confirm",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-784,
+				-270
+			],
+			"loop": true,
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "deathloop",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-680,
+				-160
+			],
+			"loop": false,
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "deathouch",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/shattouch",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bf-pixel",
+	"flip_x": true,
+	"healthbar_colors": [
+		123,
+		214,
+		246
+	],
+	"camera_position": [
+		670,
+		-630
+	],
+	"sing_duration": 4,
+	"scale": 3.50000000000001
+}

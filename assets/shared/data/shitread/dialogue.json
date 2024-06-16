@@ -1,0 +1,28 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "nbdio",
+			"boxState": "angry",
+			"expression": "shocked",
+			"text": "oh em gee ist  aht shattered fnf!!!!!s"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "nbdio",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "rap"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "whot the fuckj are you"
+		}
+	]
+}

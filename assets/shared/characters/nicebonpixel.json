@@ -1,0 +1,203 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-35,
+				190
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "nidle"
+		},
+		{
+			"offsets": [
+				-250,
+				95
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "nright0"
+		},
+		{
+			"offsets": [
+				-211,
+				189
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "ndown0"
+		},
+		{
+			"offsets": [
+				-189,
+				290
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "nup0"
+		},
+		{
+			"offsets": [
+				-155,
+				125
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "nleft0"
+		},
+		{
+			"offsets": [
+				-244,
+				74
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "nleftmiss"
+		},
+		{
+			"offsets": [
+				-194,
+				127
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "ndownmiss"
+		},
+		{
+			"offsets": [
+				-206,
+				251
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "nupmiss"
+		},
+		{
+			"offsets": [
+				-174,
+				20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "nrightmiss"
+		},
+		{
+			"offsets": [
+				-260,
+				222
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "guitar",
+			"indices": [],
+			"name": "intogituar"
+		},
+		{
+			"offsets": [
+				-244,
+				133
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "idle-alt"
+		},
+		{
+			"offsets": [
+				-119,
+				113
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "left-alt"
+		},
+		{
+			"offsets": [
+				-339,
+				198
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "right-alt"
+		},
+		{
+			"offsets": [
+				-269,
+				298
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "up-alt"
+		},
+		{
+			"offsets": [
+				-309,
+				43
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "down-alt"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-270,
+				102
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "ntaunt",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": true,
+	"image": "characters/nicebonpixel",
+	"position": [
+		20,
+		550
+	],
+	"healthicon": "nicebonpixel-pixel",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		0,
+		-190
+	],
+	"sing_duration": 4,
+	"scale": 5,
+	"_editor_isPlayer": true,
+	"missSound": ["oopspixel", 2, [1, 1]],
+  	"tauntSound": "nbpixel"
+}
