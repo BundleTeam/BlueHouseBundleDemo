@@ -3534,22 +3534,6 @@ class PlayState extends MusicBeatState
 					// if (criteria){
 					//	unlock = true
 					// }
-					case 'ultimate_shitter':
-						if (SONG.song == 'shitread-erect')
-						{
-							unlock = true;
-							for (key in ultimateShitterCheck)
-							{
-								if (key != FlxKey.S || key != FlxKey.H || key != FlxKey.I || key != FlxKey.T)
-								{
-									unlock = false;
-									break;
-								}
-							}
-						}
-					case 'april17date':
-						if (SONG.song == 'april17')
-							unlock = (Date.now().getDate() == 17 && Date.now().getMonth() == 3);
 				}
 
 				if (unlock)
